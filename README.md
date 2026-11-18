@@ -28,12 +28,11 @@ I'm passionate about web development, software engineering, and solving real-wor
 
 ## 🚀 My Projects
 
-### 📌 Internship Tracking System
-A project designed to manage and track internship-related activities.
+### 🏢 Community Center
+A web development project for a community center.
 
-### 📌 Cabin Booking System
-A mini project designed to simplify cabin availability and booking.
-
+### 🎮 Tic-Tac-Toe Game
+An interactive two-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ---
 
 ## 🔥 GitHub Streak
