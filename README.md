@@ -8,7 +8,7 @@ I'm passionate about web development, software engineering, and solving real-wor
 - 🔭 Building web development projects.
 - 🌱 Currently learning Backend Development and DSA.
 - 💡 Interested in creating practical applications.
-- 💻 Exploring C/C++ and web technologies.
+- 💻 Exploring Python, C/C++ and web technologies.
 - 🎯 Always learning, building, and improving.
 
 ---
@@ -36,13 +36,6 @@ A mini project designed to simplify cabin availability and booking.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahanteshPatil5&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanteshPatil5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -57,12 +50,12 @@ A mini project designed to simplify cabin availability and booking.
   <a href="https://github.com/MahanteshPatil5">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://github.com/MahanteshPatil5/MahanteshPatil5)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-📧 Email: YOUR_EMAIL
+📧 Email: mantup506@gmail.com
 
 ---
 
